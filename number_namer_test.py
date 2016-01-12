@@ -1,5 +1,3 @@
-##by Didi She
-
 import unittest
 from number_namer import *
 

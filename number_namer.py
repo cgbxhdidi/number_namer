@@ -1,5 +1,3 @@
-## by Didi She
-
 def main():
     sentence = 'initiate'
     while sentence != '':
